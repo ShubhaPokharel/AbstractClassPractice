@@ -28,7 +28,7 @@ Abstraction means highlighting the services and we do not have the implementatio
     Normal methods is when we declare the methods and have the implementation( logics). 
     
     
-    - Abstract classes
+   - Abstract classes
     
     Abstract classes contain abstract methods. Abstract methods is when we only declare the methods. 
     
